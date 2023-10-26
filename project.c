@@ -5,7 +5,7 @@ int main()
 
     char choice;
 
-    printf("\t\t\t\t\t\t Welcome to liqour world  \n\n");
+    printf("\t\t\t\t\t\t Welcome to liqour world \a\a\a\a\a\a \n\n");
    printf("do you want to drink type Y for yes and N for No \n ");
     scanf("%c", &choice);
     fflush(stdin);
